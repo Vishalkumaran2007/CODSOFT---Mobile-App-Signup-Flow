@@ -1,5 +1,3 @@
----
-
 # 📱 Mobile App Signup Flow
 
 
