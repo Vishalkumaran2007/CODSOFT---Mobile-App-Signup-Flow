@@ -4,11 +4,6 @@ Here is a **premium GitHub README version** with **badges, modern layout, and su
 
 # 📱 Mobile App Signup Flow
 
-![Signup Flow Banner](https://img.shields.io/badge/Project-Mobile%20Signup%20Flow-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Frontend%20UI%2FUX-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
 ---
 
 ## 🚀 Overview
