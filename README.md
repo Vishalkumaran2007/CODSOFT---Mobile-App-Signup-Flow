@@ -1,10 +1,7 @@
-Here is a **premium GitHub README version** with **badges, modern layout, and subtle animations (GIF-friendly sections + visual structure)**:
-
 ---
 
 # 📱 Mobile App Signup Flow
 
----
 
 ## 🚀 Overview
 
